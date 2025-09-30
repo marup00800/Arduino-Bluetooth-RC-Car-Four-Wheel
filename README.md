@@ -18,7 +18,6 @@ It uses TB6612FNG motor driver, N20 motors, and an LM2596 step-down converter po
 ## ⚙️ Features
 - Forward, backward, left, right movements
 - Diagonal (forward-left, forward-right, backward-left, backward-right)
-- Adjustable speed (0–255 PWM mapped to keys 0–9)
 - Bluetooth control from Android app
 
 ---
