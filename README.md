@@ -54,6 +54,9 @@ As a **CSE undergrad passionate about Robotics**, I built this project to sharpe
 *(Power managed through LM2596 with Li-ion battery.)*  
 
 ---
+## 📷 Picture
+![WhatsApp Image 2025-09-30 at 08 54 42_aa9ea578](https://github.com/user-attachments/assets/5db3d832-732e-4360-915a-d0c919fdf954)
+![WhatsApp Image 2025-09-30 at 08 54 44_3d065a8d](https://github.com/user-attachments/assets/157fb837-2e9e-45cc-9316-4f8a03b47bc8)
 
 ## 📷 Demo
 <img width="2658" height="1461" alt="RC Car_bb" src="https://github.com/user-attachments/assets/57acddd9-48b6-44a1-98a5-64d76f74be8f" />
