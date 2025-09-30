@@ -3,8 +3,6 @@
 This project is a **Bluetooth-controlled RC Car** built with Arduino and simple electronic components.  
 It demonstrates motor control, PWM-based speed adjustment, and wireless communication using an HC-05 module.  
 
-As a **CSE undergrad passionate about Robotics**, I built this project to sharpen my embedded systems and robotics skills.  
-
 ---
 
 ## 🔧 Components Used
