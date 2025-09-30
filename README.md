@@ -81,7 +81,7 @@ As a **CSE undergrad passionate about Robotics**, I built this project to sharpe
 ---
 
 ## 💡 About Me
-I’m **Marup Hossain**
+I’m **Marup Hossain**,
 **Computer Science and Engineering (CSE)** undergrad at **American International University-Bangladesh (AIUB)** 🇧🇩.  
 
 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/marup-hossain-64722834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
